@@ -6,7 +6,6 @@ A responsive Netflix clone built with HTML, CSS, and JavaScript that replicates 
 
 ![Uploading image.png…]()
 
-
 ## Features ✨
 - **Hero Section** with email signup form
 - **Trending Now** carousel with hover effects
