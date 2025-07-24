@@ -1,7 +1,7 @@
 
 # Netflix Clone 🎬
 
-A responsive Netflix clone built with HTML, CSS, and JavaScript that replicates the core UI/UX of Netflix's streaming platform.
+A responsive Netflix clone built with HTML and CSS that replicates the core UI/UX of Netflix's streaming platform.
 
 
 ![Uploading image.png…]()
@@ -43,4 +43,15 @@ Netflix-Clone/
 ├── index.html # Main HTML file
 ├── style.css # All CSS styles
 └── README.md # Documentation file
+
+Key Components 🔍
+Component	Description
+Hero Section	Full-screen background with CTA
+Content Carousel	Horizontal scrolling movie thumbnails
+Benefit Cards	4 responsive feature cards with icons
+FAQ Section	Interactive accordion dropdowns
+Footer	Multi-column navigation links
+
+
+
 
