@@ -3,7 +3,9 @@
 
 A responsive Netflix clone built with HTML, CSS, and JavaScript that replicates the core UI/UX of Netflix's streaming platform.
 
-![Netflix Clone Screenshot](assets/images/screenshot.png)
+
+![Uploading image.png…]()
+
 
 ## Features ✨
 - **Hero Section** with email signup form
