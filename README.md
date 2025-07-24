@@ -44,26 +44,6 @@ Netflix-Clone/
 └── README.md # Documentation file
 
 ```
-## Contributing 🤝
-
-We welcome contributions! Here's how to contribute:
-
-1. **Fork the Project**  
-   Click the "Fork" button at the top right of the repository
-
-2. **Create your Feature Branch**  
-   ```bash
-   git checkout -b feature/AmazingFeature
-Commit your Changes
-
-bash
-git commit -m 'Add some amazing feature'
-Push to the Branch
-
-bash
-git push origin feature/AmazingFeature
-Open a Pull Request
-Navigate to your forked repository and click "New Pull Request"
 
 
 
