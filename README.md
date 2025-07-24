@@ -34,3 +34,14 @@ cd Netflix-Clone
 
 # Open in browser (no build required)
 open index.html
+```
+
+### Project Structure 📂
+
+Netflix-Clone/
+├── 📁 assets/
+│ ├── 📁 images/ # All image assets
+│ └── 🖼️ logo.svg # Netflix logo
+├── 📄 index.html # Main HTML file
+├── 🎨 style.css # All CSS styles
+└── 📝 README.md # Documentation file
