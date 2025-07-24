@@ -44,13 +44,7 @@ Netflix-Clone/
 ├── style.css # All CSS styles
 └── README.md # Documentation file
 
-Key Components 🔍
-Component	Description
-Hero Section	Full-screen background with CTA
-Content Carousel	Horizontal scrolling movie thumbnails
-Benefit Cards	4 responsive feature cards with icons
-FAQ Section	Interactive accordion dropdowns
-Footer	Multi-column navigation links
+```
 
 
 
