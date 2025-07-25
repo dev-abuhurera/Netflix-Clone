@@ -1,5 +1,4 @@
-
-![Uploading image.png…]()
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/a65856c1-b336-49b4-9482-bc1fe933921f" />
 
 # Netflix Clone 🎬
 
