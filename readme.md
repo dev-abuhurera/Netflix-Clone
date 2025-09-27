@@ -23,9 +23,8 @@ A static Netflix homepage clone built with pure **HTML5** and **CSS3**, replicat
 ## 📂 Project Structure
 netflix-clone/
 │
-├── index/ # Main HTML files
-│ └── index.html
-│
+├── index.html/ # Main HTML file
+│  
 ├── assets/ # Images/icons
 │
 ├── style/ # CSS files
@@ -58,5 +57,8 @@ start index/index.html # Windows
 
 🌐 Live Demo
 ```
-View on Netlify
-(Replace with your actual deployment link)
+View on Netlify:-
+
+https://moviesite-clone.vercel.app/
+
+```
