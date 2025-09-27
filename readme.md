@@ -40,27 +40,27 @@ netflix-clone/
 
 
 ## 🚀 How to Use
-
 ```
-
-1. **Clone the repository**
-
------------------------------------------------------------------------
-  -->> git clone https://github.com/dev-abuhurera/Netflix-Clone.git
------------------------------------------------------------------------
+1. Clone the repository
 
 -----------------------------------------------------------------------
-Double-click index/index.html or:
+  git clone https://github.com/dev-abuhurera/Netflix-Clone.git
 -----------------------------------------------------------------------
-bash
-open index/index.html  # Mac/Linux
-start index/index.html # Windows
+
+-----------------------------------------------------------------------
+-->> Double-click index/index.html or:
+-----------------------------------------------------------------------
+
+-->> open index/index.html  # Mac/Linux
+-->> start index/index.html # Windows
+
 -----------------------------------------------------------------------
 
 ```
 
 
 🌐 Live Demo
+
 ```
 View on Netlify:-
 -----------------------------------------------------------------------
