@@ -21,6 +21,7 @@ A static Netflix homepage clone built with pure **HTML5** and **CSS3**, replicat
 
 ```markdown
 ## 📂 Project Structure
+-----------------------------------------------------------------------
 netflix-clone/
 │
 ├── index.html/ # Main HTML file
@@ -32,6 +33,7 @@ netflix-clone/
 │ └── main.css
 │
 └── README.md
+-----------------------------------------------------------------------
 
 ```
 
@@ -42,15 +44,18 @@ netflix-clone/
 ```
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/dev-abuhurera/Netflix-Clone.git
-Open in browser
 
+-----------------------------------------------------------------------
+  -->> git clone https://github.com/dev-abuhurera/Netflix-Clone.git
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
 Double-click index/index.html or:
-
+-----------------------------------------------------------------------
 bash
 open index/index.html  # Mac/Linux
 start index/index.html # Windows
+-----------------------------------------------------------------------
 
 ```
 
@@ -58,7 +63,8 @@ start index/index.html # Windows
 🌐 Live Demo
 ```
 View on Netlify:-
-
+-----------------------------------------------------------------------
 https://moviesite-clone.vercel.app/
+-----------------------------------------------------------------------
 
 ```
